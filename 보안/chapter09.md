@@ -132,7 +132,7 @@
 </Context>
 ```
 
-![img4](./img/img4.jpg)
+![img4](./img/img4.JPG)
 
 ### 8. 관리자 콘솔의 디폴트 계정/패스워드 변경
 
